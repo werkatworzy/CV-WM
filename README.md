@@ -2,10 +2,10 @@
 My name is Weronika Misiak.
 
 <h2>Certificates, webinars, challenges</h2>
-<a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course</a> <br>
+<a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf" target="_blank">Practical Software Testing Course</a> <br>
 Web Design <br>
 UX challenge <br>
-<a href="https://credsverse.com/credentials/c308b11e-0762-45a3-860c-fd95eb50a0a8">Digital designer</a> <br>
+<a href="https://credsverse.com/credentials/c308b11e-0762-45a3-860c-fd95eb50a0a8" target="_blank">Digital designer</a> <br>
 Hack(art)on Zachęta <br>
 Internet marketing basics</ol></li>
 
