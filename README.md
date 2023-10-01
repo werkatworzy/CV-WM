@@ -16,7 +16,10 @@ Visual Studio Code <br>
 DevTools <br>
 Postman <br>
 Wordpress <br>
-Jmeter
+Jmeter<br>
+Figma<br>
+Adobe Photoshop<br>
+Adobe Illustrator
 
 <h2>Basic programming skills</h2>
 C++ <br>
@@ -47,9 +50,10 @@ Self-organisation <br>
 
 
 <h2>My projects</h2>
-GOit Test Cases <br>
+<b>GOit Test Cases</b> <br>
+<br>
 Mathtoolbox (C++)<br>
 Quiz (JS, HTML, CSS)<br>
 Hack(art)on <br>
-Digital Designer <br>
-DareIt UX Challenge Portfolio <br>
+<a href="https://www.figma.com/file/X2kHSeLigoWFLU9y5O1y7a/Inner-Harmony?type=design&node-id=82%3A2183&mode=design&t=pJVHJD8xQ7mLkeSs-1">Digital Designer </a> <br>
+<a href="https://www.figma.com/file/XD5MtjYEsU2uvkwmXa1p5O/Prezentacja%3A-Zbuduj-portfolio-UX-(Dare-It).-Aplikacja-booksYA!---Weronika-K%C4%99pa?type=design&node-id=0%3A1&mode=design&t=9sHzoDA0bCtMXQZ1-1">DareIt UX Challenge Portfolio <br>
