@@ -1,5 +1,5 @@
 <h1>CV Weronika Misiak</h1>
-My name is Weronika Misiak.
+My name is Weronika Misiak. I am a creative person full of passion. I like to develop myself and would like to find my first job in IT. I have basic knowledge in different areas but would like to focus on Manual Testing. I hope that my previous experiences will help me to be better at my job as a Software Tester. I have knowledge at ISTQB level (but still before the exam), WCAG, Web design, UX/UI design. I am familiar with tester tool and basic programming knowledge. 
 
 <h2>Certificates, webinars, challenges</h2>
 <a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course</a> <br>
