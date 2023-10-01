@@ -2,7 +2,7 @@
 My name is Weronika Misiak.
 
 <h2>Certificates, webinars, challenges</h2>
-Practical Software Testing Course  <br>
+<a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course</a> <br>
 Web Design <br>
 UX challenge <br>
 Digital designer <br>
