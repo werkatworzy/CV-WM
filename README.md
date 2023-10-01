@@ -16,6 +16,7 @@ Visual Studio Code <br>
 DevTools <br>
 Postman <br>
 Wordpress <br>
+Jmeter
 
 <h2>Basic programming skills</h2>
 C++ <br>
@@ -24,6 +25,7 @@ Python <br>
 JavaScript <br>
 HTML <br>
 CSS <br>
+API testing
 
 <h2>Tech skills</h2>
 Creating test cases <br>
