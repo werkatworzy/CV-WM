@@ -2,11 +2,11 @@
 My name is Weronika Misiak. I am a creative person full of passion. I like to develop myself and would like to find my first job in IT. I have basic knowledge in different areas but would like to focus on Manual Testing. I hope that my previous experiences will help me to be better at my job as a Software Tester. I have knowledge at ISTQB level (but still before the exam), WCAG, Web design, UX/UI design. I am familiar with tester tool and basic programming knowledge. 
 
 <h2>Certificates, webinars, challenges</h2>
-<a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course</a> <br>
-Web Design <br>
-UX challenge <br>
-<a href="https://credsverse.com/credentials/c308b11e-0762-45a3-860c-fd95eb50a0a8">Digital designer</a> <br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6980852720874270720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6980852720874270720%29">Hack(art)on Zachęta</a> <br>
+<a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course | Udemy</a> <br>
+Web Design | Zachodniopomorskie Centrum Informatyki <br>
+UX challenge | Dare It<br>
+<a href="https://credsverse.com/credentials/c308b11e-0762-45a3-860c-fd95eb50a0a8">Digital designer | Tom Biskup, Design Practice</a> <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6980852720874270720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6980852720874270720%29">Hack(art)on | Zachęta - Narodowa Galeria Sztuki</a> <br>
 
 <h2>Tools</h2>
 Jira <br>
@@ -50,8 +50,11 @@ Self-organisation <br>
 
 
 <h2>My projects</h2>
-<b>GOit Test Cases</b> <br>
+<b><a href="https://github.com/werkatworzy/GOit">GOit Test Case 1</a></b> <br>
+<b><a href="https://github.com/werkatworzy/GOit2">GOit Test Case 2</a></b> <br>
+<b><a href="https://werkatworzy.atlassian.net/jira/core/projects/MB7/board">Mr Buggy 7 - Case Study</a></b>
 <br>
+
 Mathtoolbox (C++)<br>
 Quiz (JS, HTML, CSS)<br>
 Hack(art)on <br>
