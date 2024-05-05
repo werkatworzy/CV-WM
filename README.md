@@ -1,6 +1,5 @@
 <h1>Weronika Misiak - Junior Software Engineer</h1>
 <br>
-<i>Passionate about Quality Assurance and Software Testing</i>
 <br>
 <h2>About Me:</h2>
 I am someone who thrives on creative challenges.
@@ -13,7 +12,7 @@ my background may not be in software engineering,
 my ambition and dedication to learning make me
 a determined and hardworking individual ready to tackle
 new challenges and grow within the field.
-
+<br>
 <br>
 <h2>Skills:</h2>
 Basic knowledge
@@ -31,70 +30,44 @@ Research
 <br>
 <h2>Skills:</h2><br>
 English - B1
-
 <br>
-<h2>Experience:</h2> <br>
+<br>
+<h2>Experience:</h2>
 <h3>VISUAL ARTIST  <br>
 OWN BUSINESS - VISUAL ARTIST WERONIKA MISIAK</h3>
 (2019 - now) <br>
 Creating designs that combine beauty and usability.
-
-Understanding customer needs and delivering
-
-projects that fully meet their expectations.
-
+Understanding customer needs and delivering projects that fully meet their expectations.
 Creating logo designs, illustrations, graphics for social media.
-
-I create AR filters for social media. Last year I organized
-an exhibition in one of the cafes in Szczecin. The main theme
-
-was digital collages that "came to life" thanks to Instagram
-or Facebook AR filters. Both the collages and the filters
-
-dedicated to them were created by me.
-
-I conducted training for individuals and representatives
-of non-governmental organizations in the field of computer
-
-graphics (at the Culture Incubator in Szczecin).
-
-Recently, I have expanded the offer and design of websites
-
-and online stores on Wordpress and WooCommerce.
+I create AR filters for social media. Last year I organized an exhibition in one of the cafes in Szczecin. The main theme
+was digital collages that "came to life" thanks to Instagram or Facebook AR filters. Both the collages and the filters
+dedicated to them were created by me. 
+I conducted training for individuals and representatives of non-governmental organizations in the field of computer graphics (at the Culture Incubator in Szczecin).
+Recently, I have expanded the offer and design of websites and online stores on Wordpress and WooCommerce.
 I make sure that the website is clear, intuitive and optimized.
 
-
-<h3>GRAPHIC DESIGNER
- 
+<h3>GRAPHIC DESIGNER - 
 MAX VON JASTROV </h3> (ul. Dworcowa 2a, Szczecin) <br>
 (2019 – 2022) <br)
-Preparation of packaging graphic designs
-
-food. My communication skills were pivotal in collaborating
-
-effectively with clients. I regularly conducted meetings to
-
-thoroughly understand their needs and expectations,
-
-enabling me to tailor projects to their requirements
-
-effectively. My creativity was utilized in creating layouts and
-
-retouching photos to produce visually appealing and brand
-
-aligned packaging. I remained open to client suggestions and
-
-routinely adjusted projects based on their feedback,
-
-contributing to client satisfaction and the realization of their
-
-vision. Additionally, working with the Brandbook required
-
-meticulousness and attention to detail in ensuring the highest
-
-quality materials submitted for printing, contributing to brand
-
+Preparation of packaging graphic designs food. My communication skills were pivotal in collaborating effectively with clients. 
+I regularly conducted meetings to thoroughly understand their needs and expectations, enabling me to tailor projects to their requirements
+effectively. My creativity was utilized in creating layouts and retouching photos to produce visually appealing and brand aligned packaging. 
+I remained open to client suggestions and routinely adjusted projects based on their feedback, contributing to client satisfaction and the realization of their vision. 
+Additionally, working with the Brandbook required meticulousness and attention to detail in ensuring the highest quality materials submitted for printing, contributing to brand
 consistency and the professional appearance of products.
+<br>
+<br>
+<h2>Education</h2><br>
+<h3>Engineering studies (part-time): Information technology</h3> <br>
+(2023 - now) <br>
+The West Pomeranian University of Technology, Szczecin <br>
+<h3>Postgraduate studies: Graphic design</h3> <br>
+(2018 - 2019) <br>
+The West Pomeranian Business School, Szczecin <br>
+<h3>Bachelor & Master's studies. Interior Design </h3> <br>
+(2013 - 2018) <br>
+Academy of Art, Szczecin 
+<br>
 <br>
 <h2>Certificates, webinars, challenges</h2>
 <a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course | Udemy</a> <br>
@@ -109,9 +82,9 @@ Windows, Linux, OS <br>
 SQL <br>
 JavaScript <br>
 HTML <br>
-CSS <br>
-
-
+CSS 
+<br>
+<br>
 <h2>Other tech skills</h2>
 Creating test cases <br>
 Performing functional testing <br>
@@ -122,21 +95,23 @@ Figma <br>
 Adobe Photoshop, Adobe illustrator <br>
 Accessibility (WCAG) <br>
 GIT, GIThub
-
-
+<br>
+<br>
 <h2>Soft skills</h2>
 Creative <br>
 Patience <br>
 Empathy <br>
 Problem solving <br>
 Engagement <br>
-Self-organisation <br>
-
+Self-organisation 
+<br>
+<br>
 
 <h2>My projects</h2>
 <b><a href="https://github.com/werkatworzy/GOit">GOit Test Case 1</a></b> <br>
 <b><a href="https://github.com/werkatworzy/GOit2">GOit Test Case 2</a></b> <br>
 <b><a href="https://werkatworzy.atlassian.net/jira/core/projects/MB7/board">Mr Buggy 7 - Case Study</a></b>
+<br>
 <br>
 
 Mathtoolbox (C++)<br>
