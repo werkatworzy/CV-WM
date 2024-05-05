@@ -56,13 +56,13 @@ consistency and the professional appearance of products.
 <br>
 <br>
 <h2>Education</h2>
-<h3>Engineering studies (part-time): Information technology</h3> <br>
+<h3>Engineering studies (part-time): Information technology</h3>
 (2023 - now) <br>
 The West Pomeranian University of Technology, Szczecin <br>
 <h3>Postgraduate studies: Graphic design</h3> <br>
 (2018 - 2019) <br>
 The West Pomeranian Business School, Szczecin <br>
-<h3>Bachelor & Master's studies. Interior Design </h3> <br>
+<h3>Bachelor & Master's studies. Interior Design </h3> 
 (2013 - 2018) <br>
 Academy of Art, Szczecin 
 <br>
