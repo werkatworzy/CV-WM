@@ -1,31 +1,100 @@
-<h1>Weronika Misiak - Software Tester</h1>
+<h1>Weronika Misiak - Junior Software Engineer</h1>
 <br>
 <i>Passionate about Quality Assurance and Software Testing</i>
 <br>
 <h2>About Me:</h2>
-I am Weronika Misiak, an aspiring software tester with a strong foundation in IT. My journey in the IT industry began with a focus on UX/UI design, where I honed my skills through various courses and training programs. This background provided me with a unique perspective on user-centric testing, which I now bring into my role as a software tester. I am currently pursuing a degree in Computer Science at the West Pomeranian University of Technology, further deepening my knowledge in the field.
-<br>
-I am committed to continuous learning and staying updated with the latest trends in software testing. As I progress in my studies and career, I aim to expand my expertise in various testing methodologies, including manual, automated, and performance testing.
-<br>
-<h2>Tools and Technologies:</h2>
-I am proficient in a range of testing tools and technologies, including Jira, TestLink, Trello, Visual Studio Code, DevTools, Postman, and JMeter. My familiarity with these tools allows me to efficiently plan, execute, and report on testing activities.<br>
-Jira <br>
-TestLink <br>
-Trello <br>
-Visual Studio Code <br>
-DevTools <br>
-Postman <br>
-Wordpress <br>
-Jmeter<br>
-Figma<br>
-Adobe Photoshop<br>
-Adobe Illustrator
+I am someone who thrives on creative challenges.
+Over the past few years, I have been running my own
+creative brand, which has been an incredible learning
+experience. Through this venture, I have expanded my skill
+set across various domains and honed my ability
+to efficiently organize and manage my work. While
+my background may not be in software engineering,
+my ambition and dedication to learning make me
+a determined and hardworking individual ready to tackle
+new challenges and grow within the field.
 
 <br>
-<h2>Experience:</h2>
-One of my notable experiences as a software tester was my participation in the Zachęta Hackathon, where I worked on a project aligned with WCAG (Web Content Accessibility Guidelines). This event provided me with valuable insights into the importance of accessibility testing and the significance of ensuring digital products are inclusive and user-friendly for everyone.
+<h2>Skills:</h2>
+Basic knowledge
+of Data Structures and
+Algorithms <br>
+Communication skills,
+creativeness and openmindedness <br>
+Basics of software
+testingo <br>
+Analytical thinking <br>
+UX/UI desing <br>
+Web design <br>
+Creating brandings<br>
+Research
 <br>
-In addition to my testing expertise, I have a solid background in designing and developing responsive websites and e-commerce stores. My proficiency in UX/UI design has allowed me to create visually appealing and user-friendly interfaces that enhance the overall user experience. I understand the importance of a seamless user journey and how it contributes to the success of web applications and e-commerce platforms.
+<h2>Skills:</h2><br>
+English - B1
+
+<br>
+<h2>Experience:</h2> <br>
+<h3>VISUAL ARTIST  <br>
+OWN BUSINESS - VISUAL ARTIST WERONIKA MISIAK</h3>
+(2019 - now) <br>
+Creating designs that combine beauty and usability.
+
+Understanding customer needs and delivering
+
+projects that fully meet their expectations.
+
+Creating logo designs, illustrations, graphics for social media.
+
+I create AR filters for social media. Last year I organized
+an exhibition in one of the cafes in Szczecin. The main theme
+
+was digital collages that "came to life" thanks to Instagram
+or Facebook AR filters. Both the collages and the filters
+
+dedicated to them were created by me.
+
+I conducted training for individuals and representatives
+of non-governmental organizations in the field of computer
+
+graphics (at the Culture Incubator in Szczecin).
+
+Recently, I have expanded the offer and design of websites
+
+and online stores on Wordpress and WooCommerce.
+I make sure that the website is clear, intuitive and optimized.
+
+
+<h3>GRAPHIC DESIGNER
+ 
+MAX VON JASTROV </h3> (ul. Dworcowa 2a, Szczecin) <br>
+(2019 – 2022) <br)
+Preparation of packaging graphic designs
+
+food. My communication skills were pivotal in collaborating
+
+effectively with clients. I regularly conducted meetings to
+
+thoroughly understand their needs and expectations,
+
+enabling me to tailor projects to their requirements
+
+effectively. My creativity was utilized in creating layouts and
+
+retouching photos to produce visually appealing and brand
+
+aligned packaging. I remained open to client suggestions and
+
+routinely adjusted projects based on their feedback,
+
+contributing to client satisfaction and the realization of their
+
+vision. Additionally, working with the Brandbook required
+
+meticulousness and attention to detail in ensuring the highest
+
+quality materials submitted for printing, contributing to brand
+
+consistency and the professional appearance of products.
 <br>
 <h2>Certificates, webinars, challenges</h2>
 <a href="https://github.com/werkatworzy/CV-WM/blob/main/udemy_praktycznytest.pdf">Practical Software Testing Course | Udemy</a> <br>
@@ -35,19 +104,22 @@ UX challenge | Dare It<br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6980852720874270720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6980852720874270720%29">Hack(art)on | Zachęta - Narodowa Galeria Sztuki</a> <br>
 <h2>Basic programming skills</h2>
 C++ <br>
+C<br>
+Windows, Linux, OS <br>
 SQL <br>
-Python <br>
 JavaScript <br>
 HTML <br>
 CSS <br>
-API testing
 
-<h2>Tech skills</h2>
+
+<h2>Other tech skills</h2>
 Creating test cases <br>
 Performing functional testing <br>
 Basic level knowledge of ISTQB<br>
 Reporting bugs <br>
 Wordpress <br>
+Figma <br>
+Adobe Photoshop, Adobe illustrator <br>
 Accessibility (WCAG) <br>
 GIT, GIThub
 
