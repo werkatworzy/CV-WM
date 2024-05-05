@@ -27,8 +27,6 @@ UX/UI desing <br>
 Web design <br>
 Creating brandings<br>
 Research
-<br>
-<h2>Skills:</h2><br>
 English - B1
 <br>
 <br>
