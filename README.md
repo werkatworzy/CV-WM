@@ -106,14 +106,9 @@ Self-organisation
 <br>
 
 <h2>My projects</h2>
-<b><a href="https://github.com/werkatworzy/GOit">GOit Test Case 1</a></b> <br>
-<b><a href="https://github.com/werkatworzy/GOit2">GOit Test Case 2</a></b> <br>
-<b><a href="https://werkatworzy.atlassian.net/jira/core/projects/MB7/board">Mr Buggy 7 - Case Study</a></b>
-<br>
-<br>
-
-Mathtoolbox (C++)<br>
-Quiz (JS, HTML, CSS)<br>
+<a href="https://github.com/werkatworzy/BMI_calculator"> BMI Calculator (C) </a> <br>
+<a href="https://github.com/werkatworzy/Mathtoolbox/"> Mathtoolbox (C++)  </a><br>
+<a href="https://github.com/werkatworzy/quiz"> Quiz (JS, HTML, CSS)</a><br>
 Hack(art)on <br>
 <a href="https://www.figma.com/file/X2kHSeLigoWFLU9y5O1y7a/Inner-Harmony?type=design&node-id=82%3A2183&mode=design&t=pJVHJD8xQ7mLkeSs-1">Digital Designer </a> <br>
 <a href="https://www.figma.com/file/XD5MtjYEsU2uvkwmXa1p5O/Prezentacja%3A-Zbuduj-portfolio-UX-(Dare-It).-Aplikacja-booksYA!---Weronika-K%C4%99pa?type=design&node-id=0%3A1&mode=design&t=9sHzoDA0bCtMXQZ1-1">DareIt UX Challenge Portfolio <br>
