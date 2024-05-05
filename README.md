@@ -46,7 +46,7 @@ I make sure that the website is clear, intuitive and optimized.
 
 <h3>GRAPHIC DESIGNER - 
 MAX VON JASTROV </h3> (ul. Dworcowa 2a, Szczecin) <br>
-(2019 – 2022) <br)
+(2019 – 2022) <br>
 Preparation of packaging graphic designs food. My communication skills were pivotal in collaborating effectively with clients. 
 I regularly conducted meetings to thoroughly understand their needs and expectations, enabling me to tailor projects to their requirements
 effectively. My creativity was utilized in creating layouts and retouching photos to produce visually appealing and brand aligned packaging. 
