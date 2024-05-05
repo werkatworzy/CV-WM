@@ -55,7 +55,7 @@ Additionally, working with the Brandbook required meticulousness and attention t
 consistency and the professional appearance of products.
 <br>
 <br>
-<h2>Education</h2><br>
+<h2>Education</h2>
 <h3>Engineering studies (part-time): Information technology</h3> <br>
 (2023 - now) <br>
 The West Pomeranian University of Technology, Szczecin <br>
